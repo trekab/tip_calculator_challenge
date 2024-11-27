@@ -30,6 +30,7 @@ Replicate the functionality of the **Frontend Mentor Tip Calculator**:
 ---
 
 ## **Deliverables**
+A link to your GitHub repo with the following:
 
 1. A fully functional Ruby on Rails application with:
    - Tip Calculator functionality.
